@@ -1,9 +1,9 @@
 {
   "id": "attachment-butler",
-  "name": "Attachment butler",
+  "name": "Attachment Butler",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "高效管理Obsidian附件，告别文件混乱与引用追踪难题。",
+  "description": "高效管理附件，告别文件混乱与引用追踪难题.",
   "author": "加点幻想就有了@FantsGa",
   "authorUrl": "https://github.com/FantsGa",
   "isDesktopOnly": false
