@@ -1,0 +1,29 @@
+/* ================================================================
+   Attachment Butler - styles.css
+   使用 Obsidian 标准 CSS 变量，自动适配深色/浅色主题
+   ================================================================ */
+
+/* F1：未引用附件红点 */
+.attachment-butler-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: var(--color-red, #e93147);
+  flex-shrink: 0;
+  position: relative;
+  top: 1px;
+  margin-right: 5px;
+}
+
+/* F3：笔记名前缀
+   使用 --text-accent 让前缀颜色与文件名有视觉区分
+   不新增独立色值，完全依赖 Obsidian 主题变量 */
+.attachment-butler-prefix {
+  color: var(--text-accent);
+  font-size: 0.88em;
+  font-weight: 500;
+  margin-right: 1px;
+  /* 让前缀文字不被压缩 */
+  flex-shrink: 0;
+}

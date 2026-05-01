@@ -1,0 +1,17 @@
+{
+  "name": "attachment-butler",
+  "version": "1.0.0",
+  "description": "高效管理 Obsidian 附件，告别文件混乱与引用追踪难题。",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.js --dev",
+    "build": "node esbuild.config.js"
+  },
+  "keywords": ["obsidian", "attachment", "file-management"],
+  "author": "加点幻想就有了@FantsGa",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "esbuild": "^0.28.0"
+  }
+}
