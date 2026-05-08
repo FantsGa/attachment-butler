@@ -97,6 +97,11 @@ Hover over the attachment name to see the **note name prefix** and understand wh
 
 <img width="561" height="900" alt="image" src="https://github.com/user-attachments/assets/cfec2a8c-335a-4a23-bb17-0a955adb74c1" />
 
+### 独立开关/Independent switch
+
+<img width="1773" height="1458" alt="image" src="https://github.com/user-attachments/assets/347d78a1-f611-4e69-b2fa-ebf27162e6d4" />
+
+
 
 ---
 
