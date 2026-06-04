@@ -35,7 +35,7 @@ const I18N = {
   githubUrl:  'https://github.com/FantsGa/attachment-butler',  // ← 替换为你的 GitHub 仓库地址
   coffeeDesc: '想让我更有动力更新功能？可以请我喝杯咖啡，续上我的开发能量！',
   coffeeBtn:  '☕ Buy Me a Coffee',
-  coffeeUrl:  'https://www.buymeacoffee.com/FantsGa',           // ← 替换为你的 Buy Me a Coffee 地址
+  coffeeUrl:  'https://ko-fi.com/fantsga',           // ← 替换为你的 Buy Me a Coffee 地址
 };
 
 /**
