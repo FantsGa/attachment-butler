@@ -33,7 +33,7 @@ Referenced attachments display the note name as a prefix. Hover to see all refer
 
 ## 📥 安装方式 / Installation
 
-### 方式1：从社区插件库安装（审核中）/ Method 1: Community Plugins (Under review)
+### 方式1：从社区插件库安装/ Method 1: Community Plugins (Under review)
 
 1. 打开 Obsidian **设置** → **第三方插件** → **关闭安全模式**  
    Open Obsidian **Settings** → **Community plugins** → **Turn off safe mode**
